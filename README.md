@@ -1,3 +1,5 @@
+---
+
 <p align="center">
   <img src="https://media.discordapp.net/attachments/1370811837863428129/1377234122824749236/result.png?ex=683838ba&is=6836e73a&hm=6a1ac625099603af7733ad00249dce9c2dd663b7fa6935eab615a9881c4d8d3b&=&format=webp&quality=lossless" width="200" alt="losop" />
 </p>
@@ -11,6 +13,7 @@
 
 </div>
 
+---
 # lopos
 
 Lopos is a powerful utility library for advanced conditional testing, flexible date handling, deep merging, throttling, cloning, and conditional logic — all packed with extensive options and without relying on native `if` statements in some parts.  
