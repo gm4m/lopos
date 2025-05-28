@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1370811837863428129/1377215300860121118/image.png?ex=68382733&is=6836d5b3&hm=24ae54e3b7bc5c2e0bd226a801c77c5e1713c7a1044fbf04c2d830df49aae207&=&format=webp&quality=lossless" width="200" alt="losop" />
+</p>
 <div align="center">
 
 [![NPM Downloads](https://img.shields.io/npm/dw/lopos)](https://www.npmjs.com/package/lopos) &nbsp;&nbsp;
