@@ -1,3 +1,13 @@
+<div align="center">
+
+[![NPM Downloads](https://img.shields.io/npm/dw/lopos)](https://www.npmjs.com/package/lopos) &nbsp;&nbsp;
+[![NPM Version](https://img.shields.io/npm/v/lopos)](https://www.npmjs.com/package/lopos) &nbsp;&nbsp;
+[![GitHub License](https://img.shields.io/github/license/gm4m/lopos)](https://github.com/gm4m/lopos/blob/main/LICENSE) &nbsp;&nbsp;
+[![Discord](https://img.shields.io/discord/1377220782224048168?color=5865F2&logo=discord&logoColor=white)](https://discord.gg/YOUR_DISCORD_INVITE) &nbsp;&nbsp;
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Flopos.vercel.app)](https://lopos.vercel.app)
+
+</div>
+
 # lopos
 
 Lopos is a powerful utility library for advanced conditional testing, flexible date handling, deep merging, throttling, cloning, and conditional logic — all packed with extensive options and without relying on native `if` statements in some parts.  
